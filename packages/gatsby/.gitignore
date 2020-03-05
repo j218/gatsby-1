@@ -27,7 +27,7 @@ build/Release
 node_modules
 
 decls
-dist
+# dist
 
 # built files
 apis.json
